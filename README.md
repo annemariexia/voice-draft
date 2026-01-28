@@ -19,7 +19,7 @@ This project is a Chrome extension that allows users to record their voice and t
 ## Installation
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/annemariexia/VoiceDraft.git
+git clone https://github.com/annemariexia/voice-draft.git
 ```
 
 ### 2. Setup the backend
