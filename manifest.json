@@ -1,0 +1,14 @@
+{
+    "name": "Voice Draft",
+    "description": "Extension for dictating emails using voice",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": ["tabs", "activeTab", "storage", "scripting"],
+    "host_permissions": [
+      "https://mail.google.com/*"
+    ]
+  }
